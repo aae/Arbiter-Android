@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape_notification.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-mdpi\\shape_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-mdpi\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\aoi_selector.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-mdpi\\aoi_selector.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Jan 15 10:08:18 MST 2017
+base.0=C\:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_314440fd2d1efdd3db93841ef36a7e38852a920e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b8ad4c6c2e83c107a40b936b05f14765f024b8f6\\classes.dex
+base.1=C\:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b8ad4c6c2e83c107a40b936b05f14765f024b8f6
+file.0=C\:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_314440fd2d1efdd3db93841ef36a7e38852a920e\\classes.dex

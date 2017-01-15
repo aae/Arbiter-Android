@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\project_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_layers_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\add_layers_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_geometry_type.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\choose_geometry_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notifications_count.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\notifications_count.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_baselayer_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\choose_baselayer_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\drop_down_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\downloading_tileset_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\downloading_tileset_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_layers_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\add_layers_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textview.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\welcome_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_layers_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\order_layers_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insert_feature_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\insert_feature_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_layer_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\base_layer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tileset_info_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\tileset_info_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\notification_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\media_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\project_name_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\project_name_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layers_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\layers_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_attribute.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\feature_attribute.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tileset_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\tileset_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_buttons.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\edit_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notifications.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_geometry_type_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\choose_geometry_type_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\servers_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\servers_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\errors_syncing_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\errors_syncing_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layers_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\layers_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\geometry_parts_buttons.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\geometry_parts_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_tileset_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\add_tileset_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_media.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\feature_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\feature_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_server_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\add_server_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_dropdown.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\feature_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_image_view.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\media_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\failed_sync.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\failed_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_tilesets_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\add_tilesets_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insert_feature_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\insert_feature_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_projects.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\activity_projects.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\switch_project.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\switch_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\server_list_item.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\server_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tilesets_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\tilesets_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_aoi_dialog.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\layout\\choose_aoi_dialog.xml"
+    }
+]

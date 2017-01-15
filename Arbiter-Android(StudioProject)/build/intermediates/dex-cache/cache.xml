@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aelandas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\aelandas\StudioProjects\Arbiter-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_db4a6ba7372e83ac6c3f2c2c8084946af8ad6ed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aelandas\StudioProjects\Arbiter-Android\app\libs\cordova-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31726805d6e1b0b0ba82a30ff7de8c090b47f8e0">
+        <dex dex="C:\Users\aelandas\StudioProjects\Arbiter-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\cordova-3.4.0_0ac72f5bf5870e26b7f495c740b984d71919ecda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aelandas\StudioProjects\Arbiter-Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30c4dc64d5a895fd2d6f7f375e3293ea4dc810d3">
+        <dex dex="C:\Users\aelandas\StudioProjects\Arbiter-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_314440fd2d1efdd3db93841ef36a7e38852a920e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aelandas\StudioProjects\Arbiter-Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1852b9ab969dd3570fbfb57a3876ba189e15545a">
+        <dex dex="C:\Users\aelandas\StudioProjects\Arbiter-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b8ad4c6c2e83c107a40b936b05f14765f024b8f6\classes.dex" />
+    </item>
+
+</items>

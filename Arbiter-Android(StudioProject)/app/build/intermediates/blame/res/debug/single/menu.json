@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_map.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\menu\\menu_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\aoi.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\menu\\aoi.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_layers.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\menu\\menu_layers.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_projects.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\menu\\menu_projects.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_settings.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\menu\\menu_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_modified.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\menu\\menu_modified.xml"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add_layers.xml",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\menu\\menu_add_layers.xml"
+    }
+]

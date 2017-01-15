@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zoom_out.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\zoom_out.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_delete.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\content_new_black.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\content_new_black.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_down.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\content_new_white.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\content_new_white.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_edit.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_refresh.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zoom_in.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\zoom_in.png"
+    },
+    {
+        "merged": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_up.png",
+        "source": "C:\\Users\\aelandas\\StudioProjects\\Arbiter-Android\\app\\src\\main\\res\\drawable-hdpi\\arrow_up.png"
+    }
+]
